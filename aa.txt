@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 aslam
 aaa
 aaa
+=======
+kadir
+mimi
+>>>>>>> mimi
